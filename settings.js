@@ -8,8 +8,8 @@ global.ytname = "YT: KermHackTools"
 global.socialm = "GitHub: Kgtech-cmr"
 global.location = "Cameroon, douala, yaoundé"
 
-global.ownernumber = '237656520674'  //creator number
-global.ownername = 'your name here' //creatoe name
+global.ownernumber = '22373633513'  //creator number
+global.ownername = 'black king ister' //creatoe name
 global.botname = 'ད𝙆𝙚𝙧𝙢𝘽𝙪𝙜 𝙑2༒' //name of the bot
 
 //sticker details
